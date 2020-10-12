@@ -11,7 +11,7 @@ div {
 	display: none;
 	float: left;
 	text-align: center;
-}
+} 
 </style>
 <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
 </head>
